@@ -1,0 +1,138 @@
+{
+  "useCookies": true,
+  "freeFlightEnabled": true,
+  "maps": {
+    "PwWinter21": {
+      "enabled": false,
+      "hires": {
+        "tileSize": {
+          "x": 32,
+          "z": 32
+        },
+        "scale": {
+          "x": 1,
+          "z": 1
+        },
+        "translate": {
+          "x": 2,
+          "z": 2
+        }
+      },
+      "lowres": {
+        "tileSize": {
+          "x": 400,
+          "z": 400
+        },
+        "scale": {
+          "x": 8,
+          "z": 8
+        },
+        "translate": {
+          "x": 4,
+          "z": 4
+        }
+      },
+      "startPos": {
+        "x": 397,
+        "z": 845
+      },
+      "world": "f320109c-c68a-4a91-aa5c-15c5e323d15b",
+      "ordinal": 0,
+      "skyColor": {
+        "r": 0.49019608,
+        "g": 0.67058825,
+        "b": 1.0
+      },
+      "ambientLight": 0.0,
+      "name": "pwwinter21"
+    },
+    "pwwinter21": {
+      "enabled": true,
+      "hires": {
+        "tileSize": {
+          "x": 32,
+          "z": 32
+        },
+        "scale": {
+          "x": 1,
+          "z": 1
+        },
+        "translate": {
+          "x": 2,
+          "z": 2
+        }
+      },
+      "lowres": {
+        "tileSize": {
+          "x": 400,
+          "z": 400
+        },
+        "scale": {
+          "x": 8,
+          "z": 8
+        },
+        "translate": {
+          "x": 4,
+          "z": 4
+        }
+      },
+      "startPos": {
+        "x": 397,
+        "z": 845
+      },
+      "world": "f320109c-c68a-4a91-aa5c-15c5e323d15b",
+      "ordinal": 0,
+      "skyColor": {
+        "r": 0.49019608,
+        "g": 0.67058825,
+        "b": 1.0
+      },
+      "ambientLight": 0.0,
+      "name": "Christmas 2021"
+    },
+    "Whistler": {
+      "enabled": true,
+      "hires": {
+        "tileSize": {
+          "x": 32,
+          "z": 32
+        },
+        "scale": {
+          "x": 1,
+          "z": 1
+        },
+        "translate": {
+          "x": 2,
+          "z": 2
+        }
+      },
+      "lowres": {
+        "tileSize": {
+          "x": 400,
+          "z": 400
+        },
+        "scale": {
+          "x": 8,
+          "z": 8
+        },
+        "translate": {
+          "x": 4,
+          "z": 4
+        }
+      },
+      "startPos": {
+        "x": -9,
+        "z": -29
+      },
+      "world": "e2b150e9-5e72-42e7-924e-1bdadefb9667",
+      "ordinal": 1,
+      "skyColor": {
+        "r": 0.49019608,
+        "g": 0.67058825,
+        "b": 1.0
+      },
+      "ambientLight": 0.0,
+      "name": "Christmas 2020"
+    }
+  }
+}
